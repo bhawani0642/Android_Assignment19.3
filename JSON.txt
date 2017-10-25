@@ -1,0 +1,22 @@
+JOSN for Gmail:
+{
+“success”:1
+“mails”:[
+{
+“sender_name”: “Prienc”,
+“Description”: “This is testing mail.”,
+“date”: “Sep 20”,
+“starred”:1,
+“attachment”: 1,
+“subject”: “Testing”
+},
+{
+“sender_name”: “Shalu”,
+“Description”: “This is testing mail.”,
+“date”: “Sep 20”,
+“starred”:0,
+“attachment”: 0,
+“subject”: “Testing”
+},
+]
+}
